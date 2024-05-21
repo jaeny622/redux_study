@@ -1,3 +1,3 @@
-# Valilla Redux
+### Valilla Redux
 
-Learning Vanilla-Redux and React-Redux
+Learning Vanilla-Redux and React-Redux Example1
